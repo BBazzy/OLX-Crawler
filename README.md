@@ -1,1 +1,1 @@
-# OLX-Crawler - get the number of all announcements from OLX.com page based on their description from a certain category.
+# OLX-Crawler - get the number and group all announcements based on their content from OLX.com page.
